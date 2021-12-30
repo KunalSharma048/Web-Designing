@@ -1,0 +1,162 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.black-header{
+	width: 100%;
+	height: 21.6px;
+	background: black;
+}
+.black-header p{
+	color: white;
+	text-align: center;
+}
+.header{
+	border: 2px solid;
+	width: 100%;
+	height: 142.4px;
+	background: white;
+}
+.header img{
+	width: 115px;
+    height: 35px;
+    margin-top: 23px;
+    margin-left: 111px;
+}
+.menu a{
+	float: right;
+    text-decoration: none;
+    margin: 0px;
+    padding-right: 30px;
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+
+}
+.menu{
+	    margin-right: 10px;
+    
+    height: 20px;
+    width: 773px;
+    margin-left: 549px;
+    margin-bottom: 66px;
+        position: relative;
+    bottom: 33px;
+   }
+
+ .image{
+ 	background: url('../image/tripbanner.jpg');
+ 	width: 100%;
+ 	height: 854.55px;
+ }  
+ .main-div{
+ 	border: 2px solid;
+ 	height: 629px;
+ 	width: 100%;
+ }
+ .sub-div{
+ 	border: 2px solid;
+ 	height: 280px;
+ 	width: 280px;
+ 	float: left;
+ 	    margin-left: 148px;
+    margin-top: 16px;
+   margin-right: -128px;
+ }
+ .sub-div img{
+ 	height: 100%;
+ 	width: 100%;
+
+
+ }
+ .sub-div p{
+ color: white;
+    position: relative;
+    bottom: 164px;
+    left: 85px;
+    font-size: 23px;
+ }
+
+.handmade{
+   background: url('../image/hd.png');
+   background-position: center;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 569.7px;
+}
+
+.handmade h2{
+   position: relative;
+    color: whitesmoke;
+    left: 649px;
+    top: 210px;
+    font-size: 36px;
+}
+.handmade h3{
+   position: relative;
+    color: whitesmoke;
+    left: 674px;
+    top: 227px;
+    font-size: 27px;
+}
+
+
+.dual{
+   height: 1250px;
+   width: 100%;
+   border: 2px solid;
+   margin-top: 8px;
+}
+.sub-dual{
+   height: 580px;
+    width: 580px;
+    border: 2px solid;
+    float: left;
+    margin-left: 124px;
+    margin-top: 23px;
+    margin-right: -100px;
+}
+.sub-dual img{
+   height: 100%;
+   width: 100%;
+}
+.sub-dual p{
+   position: relative;
+    color: whitesmoke;
+    bottom: 267px;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.black{
+   border: 2px solid ;
+   width: 100%;
+   height: 200px;
+   background: black;
+   color: whitesmoke;
+
+}
+.black h2{
+   text-align: center;
+   margin-top: 13px;
+}
+.black p{
+   text-align: center;
+   margin-top: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 

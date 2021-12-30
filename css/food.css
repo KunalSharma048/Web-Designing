@@ -1,0 +1,188 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.header{
+	width: 100%;
+	height: 65px;
+	position: fixed;
+	background: white;
+
+}
+.menu{
+	float: right;
+	padding-top: 23px;
+	padding-right: 24px;
+
+
+}
+
+
+
+
+.header img{
+	width: 10%;
+	padding-top: 18px;
+	padding-left: 124px;
+
+}
+.image{
+	background:url('../image/first.jpg');
+	width: 100%;
+	height: 500px;
+	background-size:cover ;
+	background-attachment: fixed;
+}
+.image h1{
+	text-align: center;
+	font-size: 56px;
+	color:white;
+	font-family: serif;
+	
+	margin: auto;
+	width: 46%;
+	position: relative;
+	top: 228px;
+}
+.flag{
+	
+	background: rgba(0, 0, 0, 0.3);
+	height: 60px;
+	width: 100%;
+	position: relative;
+	bottom: 73px;
+}
+.flag p{
+	color:white;
+	padding-left: 99px;
+    line-height: 49px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.flag-image img{
+     float: left;
+    position: relative;
+    bottom: 48px;
+    left: 563px;
+    padding: 9px;
+    height: 35px;
+}
+.about-us{
+	background: white;
+   
+    height: 430px;
+    width: 100%;
+    position: relative;
+    bottom: 63px;
+
+}
+.about-us h2{
+	    text-align: center;
+    color: #d70f64;
+    padding-top: 134px;
+    font-size: 38px;
+}
+.about-us p{
+	
+    padding-left: 434px;
+    padding-right: 486px;
+    padding-top: 37px;
+    font-size: 21px;
+    text-align: center;
+}
+.button{
+	width:290.89px;
+    background: #d70f64;
+    height: 48px;
+    margin-left: 598px;
+    margin-top: 37px;
+        color: white;
+    text-align: center;
+    padding-top: 27px;
+    font-size: 20px;
+    font-weight: 550;
+
+
+}
+.career{
+	height: 492px;
+	width: 100%;
+	background: url('../image/career.jpg');
+	background-size: cover;
+	background-repeat: no repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+.career h2{
+	    text-align: center;
+    position: relative;
+    top: 142px;
+    font-size: 44px;
+    color: #d70f64;
+
+}
+.career p {
+    position: relative;
+    top: 173px;
+    left: 411px;
+    color: white;
+    font-size: 23px;
+}
+
+.career-button {
+    width: 290.89px;
+    background: #d70f64;
+    height: 32px;
+    margin-left: 598px;
+    margin-top: 223px;
+    color: white;
+    text-align: center;
+    padding-top: 9px;
+    font-size: 20px;
+    font-weight: 550;
+}
+.press{
+	height: 492px;
+	width: 100%;
+	background: url('../image/press.jpg');
+	background-size: cover;
+	background-repeat: no repeat;
+    background-attachment: fixed;
+}
+.press h2 {
+    color: #d70f64;
+    text-align: center;
+    font-size: 34px;
+    padding-top: 42px;
+}
+
+.press p {
+    padding-top: 45px;
+    padding-left: 461px;
+    padding-right: 337px;
+    color: white;
+    font-size: 20px;
+}
+.contact{
+
+	width: 100%; 
+	height: 492px;
+    background:#d70f64;
+
+}
+.contact h2{
+	text-align: center;
+	font-size: 34px;
+	color: whitesmoke;
+	padding-top: 111px;
+}
+.contact p{
+	 position: relative;
+    top: 173px;
+    left: 51px;
+    color: white;
+    font-size: 23px;
+}
